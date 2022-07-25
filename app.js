@@ -1,4 +1,4 @@
-<script>
+
     /* 
         * Create phone book app
         * Ask the user for operation through JS prompt
@@ -47,4 +47,4 @@
         operation = prompt("Enter operation");
     }
 
-</script>
+ 
